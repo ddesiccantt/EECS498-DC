@@ -16,6 +16,7 @@ Understand the basic Image Classification pipeline and the data-driven approach 
 Understand the train/val/test splits and the use of validation data for hyperparameter tuning
 Implement and apply a k-Nearest Neighbor (kNN) classifier
 Learn how to test your implementation on Autograder
+
 A2
 A2 include 3 questions:
 
@@ -33,6 +34,7 @@ Implement and apply a Two-layer Neural Network classifier
 Understand the differences and tradeoffs between these classifiers
 Understand how a Two-layer Neural Network can approximate an arbitrary function
 Practice implementing vectorized gradient code by checking against naive implementations, and using numeric gradient checking
+
 A3
 A3 include 2 questions:
 
